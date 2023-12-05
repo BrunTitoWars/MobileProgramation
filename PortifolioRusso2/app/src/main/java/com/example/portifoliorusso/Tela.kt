@@ -48,7 +48,7 @@ fun Tela(){
         ){
 
             Text(
-                text = "(81)98854-1195",
+                text = "(81)99432-9674",
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier
@@ -93,7 +93,7 @@ fun Tela(){
         ){
 
             Text(
-                text = "VictorAraujo00",
+                text = "BrunTitoWars",
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier
@@ -137,7 +137,7 @@ fun Tela(){
         ){
 
             Text(
-                text = "@victoraraujo_x",
+                text = "@brunotw2",
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier
@@ -147,7 +147,7 @@ fun Tela(){
             )
 
             Image(
-                painter = painterResource(id = R.drawable.instagramc),
+                painter = painterResource(id = R.drawable.instagram),
                 contentDescription = "Instagram",
                 modifier = Modifier
                     .offset(y = -20.dp)
@@ -201,6 +201,6 @@ fun Tela(){
                     .size(40.dp)
             )
 
-                   }
-            }
+            }
+        }
 }
