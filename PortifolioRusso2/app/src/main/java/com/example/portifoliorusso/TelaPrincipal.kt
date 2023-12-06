@@ -35,7 +35,7 @@ fun TelaPrincipal(){
                 onClick = { selectedItem.value = 0 },
                 icon = {
                     Icon(
-                        painter = painterResource(id = R.drawable.baseline_home_24),
+                        painter = painterResource(id = R.drawable.home),
                         contentDescription = "Home",
                         tint = if(selectedItem.value == 0) Color.LightGray else Color.Black
                     )
@@ -52,7 +52,7 @@ fun TelaPrincipal(){
                 onClick = { selectedItem.value = 1 },
                 icon = {
                     Icon(
-                        painter = painterResource(id = R.drawable.baseline_assignment_24),
+                        painter = painterResource(id = R.drawable.projetos),
                         contentDescription = "Projetos",
                         tint = if(selectedItem.value == 1) Color.LightGray else Color.Black
                     )
@@ -69,7 +69,7 @@ fun TelaPrincipal(){
                 onClick = { selectedItem.value = 2 },
                 icon = {
                     Icon(
-                        painter = painterResource(id = R.drawable.baseline_account_circle_24),
+                        painter = painterResource(id = R.drawable.contato),
                         contentDescription = "Contato",
                         tint = if(selectedItem.value == 2) Color.LightGray else Color.Black
                     )

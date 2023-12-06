@@ -1,27 +1,7 @@
 [
     {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/drawable/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
         "source": "com.example.portifoliorusso.app-main-46:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_github.png.flat",
@@ -44,8 +24,64 @@
         "source": "com.example.portifoliorusso.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_home.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_instagram.jpeg.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/instagram.jpeg"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_gmail.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/gmail.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_css.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/css.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_contato.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/contato.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_html.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/html.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_projetos.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/projetos.png"
+    },
+    {
         "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_perfil.png.flat",
         "source": "com.example.portifoliorusso.app-main-46:/drawable/perfil.png"
+    },
+    {
+        "merged": "com.example.portifoliorusso.app-merged_res-44:/drawable_whats.png.flat",
+        "source": "com.example.portifoliorusso.app-main-46:/drawable/whats.png"
     },
     {
         "merged": "com.example.portifoliorusso.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
@@ -66,9 +102,5 @@
     {
         "merged": "com.example.portifoliorusso.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "com.example.portifoliorusso.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.portifoliorusso.app-merged_res-44:/xml_backup_rules.xml.flat",
-        "source": "com.example.portifoliorusso.app-main-46:/xml/backup_rules.xml"
     }
 ]

@@ -1,0 +1,8 @@
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\Principal.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\TelaPrincipal.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\ui\theme\Theme.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\Tela.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\MainActivity.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\TelasProjetos.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\ui\theme\Type.kt
+C:\Users\Micro\Desktop\MobileProgramation-main\PortifolioRusso2\app\src\main\java\com\example\portifoliorusso\ui\theme\Color.kt
